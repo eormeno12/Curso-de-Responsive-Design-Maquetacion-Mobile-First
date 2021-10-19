@@ -1,0 +1,14 @@
+.main-tables-container{
+    max-width: 1024px;
+}
+
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    max-width: 900px;
+}
